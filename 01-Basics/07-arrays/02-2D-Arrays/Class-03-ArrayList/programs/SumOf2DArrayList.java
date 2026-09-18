@@ -24,7 +24,7 @@ public class SumOf2DArrayList {
                 sum += matrix.get(i).get(j);
             }
         }
-
+        //Check
         System.out.println("Sum of all elements = " + sum);
     }
 }
